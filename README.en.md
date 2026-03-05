@@ -4,7 +4,7 @@
 
 > Website: https://xingjiabiapi.org | WeChat: malimalihongbebe | Email: xingjiabiapi@163.com
 
-## Pricing (2026-03-02)
+## Pricing (2026-03-06)
 
 | Model | Input | Output | Savings vs Official |
 |-------|-------|--------|---------------------|
